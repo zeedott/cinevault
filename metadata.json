@@ -1,0 +1,6 @@
+{
+  "name": "CineVault",
+  "description": "A modern dark cinematic movie watchlist application with CRUD operations, filtering, search, and dashboard analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

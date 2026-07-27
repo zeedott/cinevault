@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "usr_demo_1",
+    "name": "Alex Rivers",
+    "email": "alex@example.com",
+    "password": "$2b$10$ytmJLV3ngMD1wUcjN73.1uFoA0ZKnjhvqYcH2as3GyhWCQ6Hjq5n6",
+    "profilePhoto": "",
+    "createdAt": "2026-07-26T06:54:01.752Z"
+  },
+  {
+    "_id": "usr_demo_2",
+    "name": "Arif Khan",
+    "email": "arif@example.com",
+    "password": "$2b$10$ytmJLV3ngMD1wUcjN73.1uFoA0ZKnjhvqYcH2as3GyhWCQ6Hjq5n6",
+    "profilePhoto": "",
+    "createdAt": "2026-07-26T06:54:01.752Z"
+  }
+]
